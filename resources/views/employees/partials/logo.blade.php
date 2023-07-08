@@ -1,1 +1,0 @@
-<img class="img-fluid" src="{{ asset('storage/company-logos/' . $q->logo) }}" alt="{{ $q->name }}" />
